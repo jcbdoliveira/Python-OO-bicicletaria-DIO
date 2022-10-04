@@ -33,3 +33,4 @@ b2 = Bicicleta("verde","monark",2000,189)
 Bicicleta.buzinar(b2)
 
 print(b2)
+print(b2)
